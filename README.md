@@ -1,0 +1,1 @@
+This is an Excersize to get familiar with SQL commands and manipulating databases.
